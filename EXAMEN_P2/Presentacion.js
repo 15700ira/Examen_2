@@ -1,0 +1,1 @@
+alert("Bienvenido a esta pagina, Gracias por entrar =3")
